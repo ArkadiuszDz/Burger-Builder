@@ -21,6 +21,6 @@
   transform: translateX(0);
 }
 
-.close {
+.closed {
   transform: translateX(-100%);
 }
